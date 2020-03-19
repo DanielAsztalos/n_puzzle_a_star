@@ -24,3 +24,24 @@ tologatások számát jelenti.
   
 ## Eredmények
 
+2 4 3</br>
+1 8 5</br>
+7 0 6</br>
+
+pcost: 7</br>
+nvisited: 10
+
+2 3 6</br>
+7 0 8</br>
+4 1 5</br>
+
+pcost: 14</br>
+nvisited: 63</br>
+
+0 1 2</br>
+5 8 7</br>
+3 6 4</br>
+
+pcost: 22 </br>
+nvisited: 792 </br>
+
