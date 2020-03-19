@@ -5,6 +5,12 @@ A program egy adott állapotból eljut a 8 Puzzle kezdeti állapotába:</br>
 4 5 6</br>
 7 8 0
 
+Program meghívása:
+```
+python a_star.py [argumentumok]
+```
+
+Python verzió: 3.6
 ## Parancssori argumentumok
 
 <b>–input \<FILE\></b>: a kezdeti állapotot tartalmazó állomány neve. Ha a kapcsoló hiányzik, a standard bemenetről
