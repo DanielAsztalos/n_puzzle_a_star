@@ -42,12 +42,12 @@ nvisited: h=1: 9; h=2: 10
 4 1 5</br>
 
 pcost: h=1: 14; h=2: 14</br>
-nvisited: h=1: 248 ;h=2: 63</br>
+nvisited: h=1: 248 ; h=2: 63</br>
 
 0 1 2</br>
 5 8 7</br>
 3 6 4</br>
 
 pcost: h=1: 22; h=2: 22 </br>
-nvisited: h=1: 7481 ;h=2: 792 </br>
+nvisited: h=1: 7481 ; h=2: 792 </br>
 
